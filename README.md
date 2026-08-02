@@ -1,5 +1,13 @@
 # 🌐 OSINT Website Investigation
 
+![Documentation](https://img.shields.io/badge/Documentation-Markdown-blue)
+![OSINT](https://img.shields.io/badge/OSINT-Investigation-green)
+![Reconnaissance](https://img.shields.io/badge/Reconnaissance-Passive-orange)
+![WHOIS](https://img.shields.io/badge/WHOIS-DNS-blueviolet)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-red)
+
+---
+
 ## Project Overview
 
 This project demonstrates a passive Open Source Intelligence (OSINT) investigation conducted on a publicly accessible website. The investigation was performed using publicly available tools to gather information about the target's infrastructure, DNS configuration, hosting environment, SSL/TLS implementation, technologies used, and other publicly accessible resources.
@@ -19,6 +27,37 @@ This project demonstrates a passive Open Source Intelligence (OSINT) investigati
 - Analyze robots.txt and sitemap.xml
 - Prepare a professional intelligence report
 
+---
+
+## 🔄 Investigation Workflow
+
+```text
+              🌐 Target Website
+                     │
+                     ▼
+             🔍 WHOIS Lookup
+                     │
+                     ▼
+            🌍 DNS Enumeration
+                     │
+                     ▼
+        🔒 SSL/TLS Certificate Analysis
+                     │
+                     ▼
+        🛡️ Security Header Inspection
+                     │
+                     ▼
+      🤖 robots.txt & Sitemap Review
+                     │
+                     ▼
+         🌎 Technology Fingerprinting
+                     │
+                     ▼
+       📂 Passive Intelligence Collection
+                     │
+                     ▼
+         📝 OSINT Investigation Report
+```
 ---
 
 ## Tools Used
@@ -46,6 +85,18 @@ This project demonstrates a passive Open Source Intelligence (OSINT) investigati
 - Security Header Assessment
 - Technical Documentation
 - Cybersecurity Reporting
+
+---
+
+## 📚 Learning Outcomes
+
+- Performed passive OSINT using publicly available resources.
+- Investigated domain ownership and DNS records.
+- Analyzed SSL/TLS implementation.
+- Identified technologies used by the target.
+- Examined robots.txt and exposed resources.
+- Practiced documenting reconnaissance findings.
+- Produced a structured OSINT investigation report.
 
 ---
 
